@@ -56,8 +56,10 @@ class Quadrado
         return $"Quadrado - Lado: {lado}, Altura: {altura}";
     }
 
-    public double CalcularArea()
+    public double CalcularAreaQ()
     {
-        return lado * altura;
+        double area = lado * altura;
+        Console.WriteLine($"Calculando a área do quadrado: {lado} * {altura} = {area}");
+        return area;
     }
 }

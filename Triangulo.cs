@@ -56,8 +56,10 @@ class Triangulo
         return $"Triângulo - Base: {baseTriangulo}, Altura: {altura}";
     }
 
-    public double CalcularArea()
+    public double CalcularAreaT()
     {
-        return (baseTriangulo * altura) / 2;
+        double area = (baseTriangulo * altura) / 2;
+        Console.WriteLine($"Calculando a área do triângulo: ({baseTriangulo} * {altura}) / 2 = {area}");
+        return area;
     }
 }

@@ -56,8 +56,10 @@ class Retangulo
         return $"Retângulo - Largura: {largura}, Altura: {altura}";
     }
 
-    public double CalcularArea()
+    public double CalcularAreaR()
     {
-        return largura * altura;
+        double area = largura * altura;
+        Console.WriteLine($"Calculando a área do retângulo: {largura} * {altura} = {area}");
+        return area;
     }
 }
