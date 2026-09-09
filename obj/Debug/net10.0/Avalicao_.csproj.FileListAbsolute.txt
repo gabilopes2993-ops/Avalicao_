@@ -1,0 +1,15 @@
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\bin\Debug\net10.0\Avalicao_.exe
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\bin\Debug\net10.0\Avalicao_.deps.json
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\bin\Debug\net10.0\Avalicao_.runtimeconfig.json
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\bin\Debug\net10.0\Avalicao_.dll
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\bin\Debug\net10.0\Avalicao_.pdb
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\obj\Debug\net10.0\Avalicao_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\obj\Debug\net10.0\Avalicao_.AssemblyInfoInputs.cache
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\obj\Debug\net10.0\Avalicao_.AssemblyInfo.cs
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\obj\Debug\net10.0\Avalicao_.csproj.CoreCompileInputs.cache
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\obj\Debug\net10.0\Avalicao_.sourcelink.json
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\obj\Debug\net10.0\Avalicao_.dll
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\obj\Debug\net10.0\refint\Avalicao_.dll
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\obj\Debug\net10.0\Avalicao_.pdb
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\obj\Debug\net10.0\Avalicao_.genruntimeconfig.cache
+C:\Users\gabriel61500536\Documents\GitHub\Avalicao_\obj\Debug\net10.0\ref\Avalicao_.dll

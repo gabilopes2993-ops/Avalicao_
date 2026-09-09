@@ -15,3 +15,27 @@ Console.WriteLine(retangulo2);
 
 Console.WriteLine(quadrado1);
 Console.WriteLine(quadrado2);
+
+Console.WriteLine("================================");
+
+double areaTriangulo1 = triangulo1.CalcularArea();
+Console.WriteLine($"Área do Triângulo 1: {areaTriangulo1}");
+Console.WriteLine("--------------------------------");
+double areaTriangulo2 = triangulo2.CalcularArea();
+Console.WriteLine($"Área do Triângulo 2: {areaTriangulo2}");
+
+Console.WriteLine("================================");
+
+double areaRetangulo1 = retangulo1.CalcularArea();
+Console.WriteLine($"Área do Retângulo 1: {areaRetangulo1}");
+Console.WriteLine("--------------------------------");
+double areaRetangulo2 = retangulo2.CalcularArea();
+Console.WriteLine($"Área do Retângulo 2: {areaRetangulo2}");
+
+Console.WriteLine("================================");
+
+double areaQuadrado1 = quadrado1.CalcularArea();
+Console.WriteLine($"Área do Quadrado 1: {areaQuadrado1}");
+Console.WriteLine("--------------------------------");
+double areaQuadrado2 = quadrado2.CalcularArea();
+Console.WriteLine($"Área do Quadrado 2: {areaQuadrado2}");
