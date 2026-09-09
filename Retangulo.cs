@@ -39,12 +39,12 @@ class Retangulo
     {
         if (largura <= 0)
         {
-            throw new ArgumentException("A largura não pode ser zero ou negativa.");
+            Console.WriteLine("A largura não pode ser zero ou negativa.");
         }
 
         if (altura <= 0)
         {
-            throw new ArgumentException("A altura não pode ser zero ou negativa.");
+            Console.WriteLine("A altura não pode ser zero ou negativa.");
         }
 
         this.largura = largura;
@@ -54,5 +54,10 @@ class Retangulo
     public override string ToString()
     {
         return $"Retângulo - Largura: {largura}, Altura: {altura}";
+    }
+
+    public double CalcularArea()
+    {
+        return largura * altura;
     }
 }

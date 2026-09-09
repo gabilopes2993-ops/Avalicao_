@@ -55,4 +55,9 @@ class Quadrado
     {
         return $"Quadrado - Lado: {lado}, Altura: {altura}";
     }
+
+    public double CalcularArea()
+    {
+        return lado * altura;
+    }
 }

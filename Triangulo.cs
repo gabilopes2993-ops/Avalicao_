@@ -55,4 +55,9 @@ class Triangulo
     {
         return $"Triângulo - Base: {baseTriangulo}, Altura: {altura}";
     }
+
+    public double CalcularArea()
+    {
+        return (baseTriangulo * altura) / 2;
+    }
 }
